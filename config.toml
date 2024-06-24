@@ -1,11 +1,11 @@
 #https://github.com/kc0bfv/autophugo
 #settings
-#baseURL = "https://sprightly-biscochitos-2ca4ee.netlify.app/"
 baseURL = "https://quiet-moxie-f1ab92.netlify.app/"
 languageCode = "en-us"
 title = "Wiederstein-Nestrick Trips"
 theme = "autophugo"
 disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
 [Author]
     name = "Rob Wiederstein"
     email = "rob@robwiederstein.org"
