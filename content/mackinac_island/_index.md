@@ -1,0 +1,106 @@
+---
+title: "Mackinac Island"
+date: 2022-07-05-13T11:30:46-04:00
+albumthumb: "mackinac_island/2022-07-08_1305_tahquamenon_falls_04.jpg"
+draft: false
+## Optional additional meta info for resources list
+#  alt: Image alternative and screen-reader text
+#  phototitle: A title for the photo
+#  description: A sub-title or description for the photo
+resources:
+- src: mackinac_island/2022-07-05_0545_leave_cynthiana_00.jpg
+- src: mackinac_island/2022-07-05_1315_hello_michigan.jpg
+- src: mackinac_island/2022-07-05_1923_audies_01.jpg
+- src: mackinac_island/2022-07-05_1948_audies_02.jpg
+- src: mackinac_island/2022-07-06_0708_mackinac_island_02.jpg
+- src: mackinac_island/2022-07-06_1029_ferry_mackinac_island_01.jpg
+- src: mackinac_island/2022-07-06_1043_ferry_mackinac_island_02.jpg
+- src: mackinac_island/2022-07-06_1044_ferry_mackinac_island_03.jpg
+- src: mackinac_island/2022-07-06_1048_mackinac_bridge_01.jpg
+- src: mackinac_island/2022-07-06_1048_mackinac_bridge_02.jpg
+- src: mackinac_island/2022-07-06_1048_mackinac_bridge_03.jpg
+- src: mackinac_island/2022-07-06_1214_mackinac_main_street.jpg
+- src: mackinac_island/2022-07-06_1309_horses_00.jpg
+- src: mackinac_island/2022-07-06_1310_horses_01.jpg
+- src: mackinac_island/2022-07-06_1325_lakeshore_01.jpg
+- src: mackinac_island/2022-07-06_1347_horses_02.jpg
+- src: mackinac_island/2022-07-06_1347_michigan_governor_residence.jpg
+- src: mackinac_island/2022-07-06_1348_lighthouse_01.jpg
+- src: mackinac_island/2022-07-06_1348_mackinac_island_00.jpg
+- src: mackinac_island/2022-07-06_1445_lighthouse_02.jpg
+- src: mackinac_island/2022-07-06_1520_coast_guard_ice_breaker.jpg
+- src: mackinac_island/2022-07-07_0621_mackinac_ferry_01.jpg
+- src: mackinac_island/2022-07-07_1324_mackinac_island_01.jpg
+- src: mackinac_island/2022-07-07_1324_soo_locks_00.jpg
+- src: mackinac_island/2022-07-07_1329_soo_locks_01.jpg
+- src: mackinac_island/2022-07-07_1329_soo_locks_02.jpg
+- src: mackinac_island/2022-07-07_1400_soo_locks_03.jpg
+- src: mackinac_island/2022-07-07_1401_soo_locks_04.jpg
+- src: mackinac_island/2022-07-07_1443_mackinac_ferry_02.jpg
+- src: mackinac_island/2022-07-07_1524_soo_locks_05.jpg
+- src: mackinac_island/2022-07-07_1526_soo_locks_06.jpg
+- src: mackinac_island/2022-07-07_1527_soo_locks_aa.jpg
+- src: mackinac_island/2022-07-07_1823_lighthouse_00.jpg
+- src: mackinac_island/2022-07-07_1823_lighthouse_02.jpg
+- src: mackinac_island/2022-07-07_1824_lighthouse_01.jpg
+- src: mackinac_island/2022-07-07_2030_lakeshore_00.jpg
+- src: mackinac_island/2022-07-07_2030_lakeshore_01.jpg
+- src: mackinac_island/2022-07-07_2030_lakeshore_02.jpg
+- src: mackinac_island/2022-07-08_0945_mackinac_island_bridge.jpg
+- src: mackinac_island/2022-07-08_1220_tahquamenon_falls_01.jpg
+- src: mackinac_island/2022-07-08_1255_tahquamenon_falls_02.jpg
+- src: mackinac_island/2022-07-08_1259_tahquamenon_falls_03.jpg
+- src: mackinac_island/2022-07-08_1305_tahquamenon_falls_04.jpg
+- src: mackinac_island/2022-07-08_1355_tahquamenon_falls_00.jpg
+- src: mackinac_island/2022-07-08_1719_four_wheeling_00.jpg
+- src: mackinac_island/2022-07-08_2001_tahquanemon_falls_05.jpg
+- src: mackinac_island/2022-07-08_2124_munising_campground.jpg
+- src: mackinac_island/2022-07-08_2137_lake_superior_shoreline.jpg
+- src: mackinac_island/2022-07-09_1028_four_wheeling_04.jpg
+- src: mackinac_island/2022-07-09_1400_four_wheeling_01.jpg
+- src: mackinac_island/2022-07-09_1419_four_wheeling_02.jpg
+- src: mackinac_island/2022-07-09_1426_four_wheeling_03.jpg
+- src: mackinac_island/2022-07-09_1431_lakeshore_01.jpg
+- src: mackinac_island/2022-07-09_1917_munising_campground.jpg
+- src: mackinac_island/2022-07-09_2124_lakeshore_02.jpg
+- src: mackinac_island/2022-07-10_1304_painted_rock_04.jpg
+- src: mackinac_island/2022-07-10_1351_painted_rock_05.jpg
+- src: mackinac_island/2022-07-10_1353_painted_rock_07.jpg
+- src: mackinac_island/2022-07-10_1415_painted_rock_03.jpg
+- src: mackinac_island/2022-07-10_1452_painted_rock_06.jpg
+- src: mackinac_island/2022-07-10_1852_foggys_steakhouse.jpg
+- src: mackinac_island/2022-07-10_1930_painted_rock_00.jpg
+- src: mackinac_island/2022-07-10_1931_painted_rock_01.jpg
+- src: mackinac_island/2022-07-10_1931_painted_rock_02.jpg
+- src: mackinac_island/2022-07-11_1154_canada_crossing.jpg
+- src: mackinac_island/2022-07-12_1007_owen_sound_00.jpg
+- src: mackinac_island/2022-07-12_1008_owen_sound_01.jpg
+- src: mackinac_island/2022-07-12_1008_owen_sound_02.jpg
+- src: mackinac_island/2022-07-12_1009_owen_sound_03.jpg
+- src: mackinac_island/2022-07-12_1045_owen_sound_06.jpg
+- src: mackinac_island/2022-07-12_1054_owen_sound_04.jpg
+- src: mackinac_island/2022-07-12_1103_owen_sound_05.jpg
+- src: mackinac_island/2022-07-12_1244_owen_sound_07.jpg
+- src: mackinac_island/2022-07-12_1924_niagra_falls_00.jpg
+- src: mackinac_island/2022-07-12_1936_niagra_falls_02.jpg
+- src: mackinac_island/2022-07-12_2001_niagra_falls_01.jpg
+- src: mackinac_island/2022-07-12_2031_niagra_falls_03.jpg
+- src: mackinac_island/2022-07-13_1152_niagra_on_lake_00.jpg
+- src: mackinac_island/2022-07-13_1221_bagels_lox.jpg
+- src: mackinac_island/2022-07-13_1247_gaslight.jpg
+- src: mackinac_island/2022-07-13_1247_pickled_onions.jpg
+- src: mackinac_island/2022-07-13_1248_piccalilli.jpg
+- src: mackinac_island/2022-07-13_1249_hp_sauce.jpg
+- src: mackinac_island/2022-07-14_0933_maid_of_the_mist_03.jpg
+- src: mackinac_island/2022-07-14_1134_cheesy_twins.jpg
+- src: mackinac_island/2022-07-14_1135_woman_and_dog.jpg
+- src: mackinac_island/2022-07-14_1154_flowers.jpg
+- src: mackinac_island/2022-07-14_1209_budapest_bakeshop.jpg
+- src: mackinac_island/2022-07-14_1209_hungarian_pastry.jpg
+- src: mackinac_island/2022-07-14_1300_shaw_01.jpg
+- src: mackinac_island/2022-07-14_1300_shaw_02.jpg
+- src: mackinac_island/2022-07-14_1606_shaw_03.jpg
+- src: mackinac_island/2022-07-14_2001_mussels.jpg
+- src: mackinac_island/2022-07-14_2124_maid_of_the_mist_01.jpg
+- src: mackinac_island/2022-07-14_2201_maid_of_the_mist_02.jpg
+---
